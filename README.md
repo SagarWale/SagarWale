@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sagar Suryabhan Wale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwale" alt="sagarwale" /></a> </p>
 
 - 🌱 I’m currently learning **React,HTML,CSS,JS,JS**
+
+- 👨‍💻 All of my projects are available at [SagarWale/SagarWale.github.io](SagarWale/SagarWale.github.io)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/sagar-wale](www.linkedin.com/in/sagar-wale)
 
