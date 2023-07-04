@@ -33,5 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarwale&" alt="sagarwale" /></p>
 
-<h3 align="left">Address:</h3>
-<p>Nashik Maharashtra</p>
